@@ -1,0 +1,13 @@
+{
+  "name": "mintable-erc223",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:scale-it/mintable-erc223.git",
+  "author": "Robert Zaremba <robert@zaremba.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.1.0",
+    "ganache-cli": "^6.10.2",
+    "truffle": "^5.1.45"
+  }
+}
