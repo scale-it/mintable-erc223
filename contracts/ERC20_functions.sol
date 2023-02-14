@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: UNLICENSED
 
-pragma solidity ^0.7.0;
+pragma solidity ^0.8.0;
 
-import '././safeMath.sol';
+import './safeMath.sol';
 
 contract ERC20CompatibleToken {
     using SafeMath for uint;
